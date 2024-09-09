@@ -60,6 +60,3 @@ These predictions can be interpreted as the expected number of goals for each ma
 * Hyperparameter tuning to optimize the model's performance.
 * Incorporate additional data sources, such as player statistics or betting odds.
 
-## Conclusion
-
-This project demonstrates the potential of machine learning for predicting the number of goals in football matches. The developed model can be used to gain insights into the factors that influence goal scoring and potentially make more informed predictions about future matches.
